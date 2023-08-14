@@ -36,7 +36,7 @@
 .elementor-11 .elementor-element.elementor-element-d44ed8f:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-11 .elementor-element.elementor-element-d44ed8f>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-color: transparent;
-    background-image: linear-gradient(180deg, #382e00bd 0%, rgba(0, 17, 255, 0.596) 100%);
+    background-image: linear-gradient(180deg, #c41f1fbd 0%, rgba(184, 0, 24, 0.596) 100%);
 }
 
 .elementor-11 .elementor-element.elementor-element-d44ed8f>.elementor-element-populated,
@@ -77,14 +77,14 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-44a59f4 .elementor-heading-title {
-    color: #ecd400;
+    color: #000000;
     font-family: 'Press Start 2P', cursive;
     font-size: 30px;
     font-weight: 400;
     -webkit-text-stroke-width: 2px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: orange;
-    stroke: orange;
+    -webkit-text-stroke-color: rgb(255, 0, 0);
+    stroke: rgb(255, 0, 0);
     text-shadow: 0px 0px 10px #21a8f1;
 }
 
@@ -128,8 +128,8 @@
     font-weight: 600;
     -webkit-text-stroke-width: 1px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: orange;
-    stroke: orange;
+    -webkit-text-stroke-color: rgb(255, 0, 0);
+    stroke: rgb(255, 0, 0);
     text-shadow: 0px 0px 10px #21a8f1;
 }
 
@@ -148,7 +148,7 @@
     background-color: #61CE7000;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: orange;
+    border-color: rgb(255, 0, 0);
     border-radius: 15px 15px 15px 15px;
     box-shadow: 0px 0px 10px 0px rgba(255, 244.96148393194707, 189.0326086956522, 0.5);
     padding: 7px 7px 7px 7px;
@@ -173,7 +173,7 @@
     background-color: #61CE7000;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: orange;
+    border-color: rgb(255, 0, 0);
     border-radius: 15px 15px 15px 15px;
     box-shadow: 0px 0px 10px 0px rgba(255, 244.96148393194707, 189.0326086956522, 0.5);
     padding: 7px 7px 7px 7px;
@@ -198,7 +198,7 @@
     background-color: #61CE7000;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: orange;
+    border-color: rgb(255, 0, 0);
     border-radius: 15px 15px 15px 15px;
     box-shadow: 0px 0px 10px 0px rgba(255, 244.96148393194707, 189.0326086956522, 0.5);
     padding: 7px 7px 7px 7px;
@@ -295,8 +295,8 @@
     font-weight: 500;
     -webkit-text-stroke-width: 2px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: orange;
-    stroke: orange;
+    -webkit-text-stroke-color: rgb(255, 0, 0);
+    stroke: rgb(255, 0, 0);
     text-shadow: 0px 0px 10px #21a8f1;
 }
 
@@ -311,7 +311,7 @@
 .elementor-11 .elementor-element.elementor-element-854f0da:not(.elementor-motion-effects-element-type-background),
 .elementor-11 .elementor-element.elementor-element-854f0da>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-color: transparent;
-    background-image: linear-gradient(180deg, orange00 0%, #91747B00 100%);
+    background-image: linear-gradient(180deg, rgb(255, 0, 0)00 0%, #91747B00 100%);
 }
 
 .elementor-11 .elementor-element.elementor-element-854f0da {
@@ -346,8 +346,8 @@
     font-weight: 600;
     -webkit-text-stroke-width: 2px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: orange;
-    stroke: orange;
+    -webkit-text-stroke-color: rgb(255, 0, 0);
+    stroke: rgb(255, 0, 0);
     text-shadow: 0px 0px 10px #21a8f1;
 }
 
@@ -377,7 +377,7 @@
     background-color: #61CE7000;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: orange;
+    border-color: rgb(255, 0, 0);
     border-radius: 15px 15px 15px 15px;
     box-shadow: 0px 0px 10px 0px rgba(255, 244.96148393194707, 189.0326086956522, 0.5);
     padding: 7px 7px 7px 7px;
@@ -402,7 +402,7 @@
     background-color: #61CE7000;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: orange;
+    border-color: rgb(255, 0, 0);
     border-radius: 15px 15px 15px 15px;
     box-shadow: 0px 0px 10px 0px rgba(255, 244.96148393194707, 189.0326086956522, 0.5);
     padding: 7px 7px 7px 7px;
@@ -561,8 +561,8 @@
     font-weight: 600;
     -webkit-text-stroke-width: 2px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: orange;
-    stroke: orange;
+    -webkit-text-stroke-color: rgb(255, 0, 0);
+    stroke: rgb(255, 0, 0);
     text-shadow: 0px 0px 10px #21a8f1;
 }
 
@@ -578,8 +578,8 @@
     font-style: italic;
     -webkit-text-stroke-width: 2px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: orange;
-    stroke: orange;
+    -webkit-text-stroke-color: rgb(255, 0, 0);
+    stroke: rgb(255, 0, 0);
     text-shadow: 0px 0px 10px #21a8f1;
 }
 
@@ -610,7 +610,7 @@
     background-color: #61CE7000;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: orange;
+    border-color: rgb(255, 0, 0);
     border-radius: 15px 15px 15px 15px;
     box-shadow: 0px 0px 10px 0px rgba(255, 244.96148393194707, 189.0326086956522, 0.5);
     padding: 7px 7px 7px 7px;
@@ -635,7 +635,7 @@
     background-color: #61CE7000;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: orange;
+    border-color: rgb(255, 0, 0);
     border-radius: 15px 15px 15px 15px;
     box-shadow: 0px 0px 10px 0px rgba(255, 244.96148393194707, 189.0326086956522, 0.5);
     padding: 7px 7px 7px 7px;
@@ -702,8 +702,8 @@
     font-weight: 600;
     -webkit-text-stroke-width: 2px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: orange;
-    stroke: orange;
+    -webkit-text-stroke-color: rgb(255, 0, 0);
+    stroke: rgb(255, 0, 0);
     text-shadow: 0px 0px 10px #21a8f1;
 }
 
@@ -842,8 +842,8 @@
     font-weight: 600;
     -webkit-text-stroke-width: 2px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: orange;
-    stroke: orange;
+    -webkit-text-stroke-color: rgb(255, 0, 0);
+    stroke: rgb(255, 0, 0);
     text-shadow: 0px 0px 10px #21a8f1;
 }
 
@@ -957,8 +957,8 @@
     font-weight: 600;
     -webkit-text-stroke-width: 2px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: orange;
-    stroke: orange;
+    -webkit-text-stroke-color: rgb(255, 0, 0);
+    stroke: rgb(255, 0, 0);
     text-shadow: 0px 0px 10px #21a8f1;
 }
 
@@ -981,8 +981,8 @@
     font-weight: 600;
     -webkit-text-stroke-width: 1px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: orange;
-    stroke: orange;
+    -webkit-text-stroke-color: rgb(255, 0, 0);
+    stroke: rgb(255, 0, 0);
     text-shadow: 0px 0px 10px #21a8f1;
 }
 
